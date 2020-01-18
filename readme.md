@@ -1,20 +1,24 @@
-## Motivation
+This is a project management page.
 
-This project page is for incubation.
-Currently, we are working on Location Information Sharing system for preventing 
-missing child.
+## Projects
 
-## Installation
+- Asynchronous Messenger
+-- Voice
+-- Texts
+- Scam Blocker
+-- App to block scams
+- Facebook News
+-- Overlay service over existing service.
 
+## Milestone
 
-## API Reference
+1. Initiate projects:
+11. Define projects.
+11. Define skillsets.
+11. Plan schedules.
+11. Investigate skillsets.
 
+## Logs
 
-## Tests
-
-
-## Contributors
-
-
-## License
+01/18/20: Initiaite projects.
 
