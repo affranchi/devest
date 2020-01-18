@@ -2,21 +2,21 @@ This is a project management page.
 
 ## Projects
 
-- Asynchronous Messenger
--- Voice
--- Texts
-- Scam Blocker
--- App to block scams
-- Facebook News
--- Overlay service over existing service.
+* Asynchronous Messenger
+    * Voice
+    * Texts
+* Scam Blocker
+    * App to block scams
+* Facebook News
+    * Overlay service over existing service.
 
 ## Milestone
 
 1. Initiate projects:
-11. Define projects.
-11. Define skillsets.
-11. Plan schedules.
-11. Investigate skillsets.
+    1. Define projects.
+    1. Define skillsets.
+    1. Plan schedules.
+    1. Investigate skillsets.
 
 ## Logs
 
