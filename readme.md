@@ -21,7 +21,10 @@ This is a project management page.
 ## Logs
 
 ~~01/18/20: Initiate projects.~~
+
 ~~01/19/20: Initiate backend.~~
+
 ~~01/20/20: Initiate frontend.~~
+
 ~~01/25/20: Design frontend.~~
 
