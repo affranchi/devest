@@ -5,6 +5,9 @@ This is a project management page.
 * Asynchronous Messenger
     * Voice
     * Texts
+* Manager
+    * Human Resource Management
+    * Project Management
 * Scam Blocker
     * App to block scams
 * Facebook News
